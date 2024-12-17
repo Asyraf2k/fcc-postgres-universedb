@@ -86,3 +86,5 @@ git add.
 git commit -m
 git commit -m "init commit"
 git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command universe.sql
+git commit -m "init commit"
+git add .
