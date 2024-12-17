@@ -75,3 +75,14 @@ psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+pg_dump -cC --inserts -U freecodecamp universe.sql
+pg_dump -cC --inserts -U freecodecamp -d universe > universe.sql
+git remote add origin
+git remote add origin https://github.com/Asyraf2k/fcc-postgres-universedb.git
+git remote add origin https://github.com/Asyraf2k/fcc-postgres-universedb.git
+git remote remove origin
+git remote add origin https://github.com/Asyraf2k/fcc-postgres-universedb.git
+git add.
+git commit -m
+git commit -m "init commit"
+git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command universe.sql
